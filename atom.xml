@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tan90°的秘密花园</title>
+  
+  
+  <link href="https://tangent-90c.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://tangent-90c.github.io/"/>
+  <updated>2024-12-02T05:23:13.553Z</updated>
+  <id>https://tangent-90c.github.io/</id>
+  
+  <author>
+    <name>tan90°</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于该博客</title>
+    <link href="https://tangent-90c.github.io/about/"/>
+    <id>https://tangent-90c.github.io/about/</id>
+    <published>2024-12-02T03:03:10.000Z</published>
+    <updated>2024-12-02T05:23:13.553Z</updated>
+    
+    <content type="html"><![CDATA[<p>先建着先，以后慢慢填坑。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;先建着先，以后慢慢填坑。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
